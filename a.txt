@@ -1,2 +1,4 @@
 is a file
 new
+
+new2
